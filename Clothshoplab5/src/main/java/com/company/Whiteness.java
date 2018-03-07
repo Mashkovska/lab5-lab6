@@ -20,7 +20,7 @@ public class Whiteness extends Clothes {
         return thinLength;
     }
 
-    public void setThinLength(final String ThinLength) {
+    public void setThinLength(final String thinLength) {
         this.thinLength = thinLength;
     }
 

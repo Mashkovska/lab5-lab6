@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.6.1" timestamp="2018-03-07T13:38:07.785">
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\Undercoat.java">
+<violation beginline="11" endline="11" begincolumn="60" endcolumn="70" rule="UnusedFormalParameter" ruleset="Unused Code" package="com.company" class="Undercoat" method="Undercoat" variable="dressLength" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused constructor parameters such as 'dressLength'.
+</violation>
+<violation beginline="11" endline="11" begincolumn="34" endcolumn="45" rule="UnusedFormalParameter" ruleset="Unused Code" package="com.company" class="Undercoat" method="Undercoat" variable="sleeveLength" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused constructor parameters such as 'sleeveLength'.
+</violation>
+</file>
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\Whiteness.java">
+<violation beginline="12" endline="12" begincolumn="61" endcolumn="71" rule="UnusedFormalParameter" ruleset="Unused Code" package="com.company" class="Whiteness" method="Whiteness" variable="dressLength" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused constructor parameters such as 'dressLength'.
+</violation>
+<violation beginline="12" endline="12" begincolumn="34" endcolumn="45" rule="UnusedFormalParameter" ruleset="Unused Code" package="com.company" class="Whiteness" method="Whiteness" variable="sleeveLength" externalInfoUrl="https://pmd.github.io/pmd-5.6.1/pmd-java/rules/java/unusedcode.html#UnusedFormalParameter" priority="3">
+Avoid unused constructor parameters such as 'sleeveLength'.
+</violation>
+</file>
+</pmd>

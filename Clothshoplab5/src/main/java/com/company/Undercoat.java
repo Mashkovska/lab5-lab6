@@ -19,7 +19,7 @@ public class Undercoat extends Clothes {
         return trousersLength;
     }
 
-    public void setTrousersLength(final String TrousersLength) {
+    public void setTrousersLength(final String trousersLength) {
         this.trousersLength = trousersLength;
     }
 

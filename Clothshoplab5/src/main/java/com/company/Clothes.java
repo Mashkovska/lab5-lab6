@@ -4,22 +4,21 @@ package com.company;
 public abstract class Clothes {
 
     private ClothesType type;
-    ClothesBrend brend;
+    private ClothesBrend brend;
 
-    String nameOfCloth;
-    double price;
-    double size;
-    int amount;
-    static String length;
+    private String nameOfCloth;
+    private double price;
+    private double size;
+    private int amount;
+    private String length;
 
-    public  Clothes(final ClothesType type, final ClothesBrend brend, final String nameOfCloth, final double price, final double size, final int amount) {
+    public Clothes(final ClothesType type, final ClothesBrend brend, final String nameOfCloth, final double price, final double size, final int amount) {
 
         setType(type);
         setNameOfCloth(nameOfCloth);
         setPrice(price);
         setSize(size);
         setAmount(amount);
-        setLength(length);
         setBrend(brend);
 
     }
@@ -47,7 +46,7 @@ public abstract class Clothes {
         return nameOfCloth;
     }
 
-    public  void  setNameOfCloth(final String nameOfCloth) {
+    public void setNameOfCloth(final String nameOfCloth) {
         this.nameOfCloth = nameOfCloth;
     }
 

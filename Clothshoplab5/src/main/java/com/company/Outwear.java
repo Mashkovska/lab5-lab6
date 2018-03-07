@@ -20,7 +20,7 @@ public class Outwear extends Clothes {
         return sleeveLength;
     }
 
-    public  void setSleeveLength(final String SleeveLength) {
+    public  void setSleeveLength(final String sleeveLength) {
         this.sleeveLength = sleeveLength;
     }
 
