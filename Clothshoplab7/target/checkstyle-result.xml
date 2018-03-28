@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\Clothes.java">
+<error line="0" severity="error" message="Missing package-info.java file." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+<error line="4" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="7" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="9" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="10" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="11" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="12" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="13" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="15" severity="error" message="Line is longer than 80 characters (found 153)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="15" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="15" column="38" severity="error" message="&apos;type&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="15" column="63" severity="error" message="&apos;brend&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="15" column="83" severity="error" message="&apos;nameOfCloth&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="15" column="109" severity="error" message="&apos;price&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="15" column="129" severity="error" message="&apos;size&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="15" column="145" severity="error" message="&apos;amount&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="26" column="5" severity="error" message="Method &apos;toString&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="28" column="60" severity="error" message="&apos;+&apos; should be on a new line." source="com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck"/>
+<error line="33" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="37" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="41" column="5" severity="error" message="Method &apos;setBrend&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="41" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="41" column="45" severity="error" message="&apos;brend&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="45" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="49" column="5" severity="error" message="Method &apos;setNameOfCloth&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="49" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="49" column="45" severity="error" message="&apos;nameOfCloth&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="53" column="5" severity="error" message="Method &apos;getPrice&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="53" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="57" column="5" severity="error" message="Method &apos;setPrice&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="57" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="57" column="39" severity="error" message="&apos;price&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="61" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="65" column="5" severity="error" message="Method &apos;setSize&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="65" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="65" column="38" severity="error" message="&apos;size&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="69" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="73" column="5" severity="error" message="Method &apos;setAmount&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="73" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="73" column="37" severity="error" message="&apos;amount&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="77" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="81" column="5" severity="error" message="Method &apos;setLength&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="81" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="81" column="40" severity="error" message="&apos;length&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="85" column="5" severity="error" message="Method &apos;setType&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="85" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="85" column="43" severity="error" message="&apos;type&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\ClothesBrend.java">
+<error line="4" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="5" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="5" column="11" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="5" column="20" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\ClothesShopManager.java">
+<error line="8" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="10" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="12" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="16" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="16" column="34" severity="error" message="Parameter addClothes should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+<error line="20" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="20" column="43" severity="error" message="Parameter clothesType should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+<error line="22" column="22" severity="error" message="&apos;clothes&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="31" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="31" column="35" severity="error" message="Parameter list should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+<error line="32" severity="error" message="Line is longer than 80 characters (found 86)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="35" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\ClothesType.java">
+<error line="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="6" column="13" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="6" column="23" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+</file>
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\Outwear.java">
+<error line="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="7" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="8" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="10" severity="error" message="Line is longer than 80 characters (found 94)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="10" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="10" column="12" severity="error" message="More than 7 parameters (found 8)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="11" column="38" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="11" column="56" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="12" column="32" severity="error" message="&apos;sleeveLength&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="12" column="59" severity="error" message="&apos;dressLength&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="19" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="23" column="5" severity="error" message="Method &apos;setSleeveLength&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="23" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="23" column="47" severity="error" message="&apos;sleeveLength&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="27" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="31" column="5" severity="error" message="Method &apos;setDressLength&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="31" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="31" column="46" severity="error" message="&apos;dressLength&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\Undercoat.java">
+<error line="4" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="7" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="9" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="9" column="12" severity="error" message="More than 7 parameters (found 8)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="10" severity="error" message="Line is longer than 80 characters (found 96)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="10" column="86" severity="error" message="Parameter amount should be final." source="com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck"/>
+<error line="11" column="47" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="18" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="22" column="5" severity="error" message="Method &apos;setTrousersLength&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="22" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="22" column="48" severity="error" message="&apos;trousersLength&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="26" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="30" column="5" severity="error" message="Method &apos;setSkistLength&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="30" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="30" column="45" severity="error" message="&apos;skirtLength&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+<file name="C:\Users\user\eclipse-workspace\Clothshop\src\main\java\com\company\Whiteness.java">
+<error line="4" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+<error line="6" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="7" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+<error line="9" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="9" column="13" severity="error" message="More than 7 parameters (found 8)." source="com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck"/>
+<error line="19" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="23" column="5" severity="error" message="Method &apos;setThinLength&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="23" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="23" column="44" severity="error" message="&apos;thinLength&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+<error line="27" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="31" column="5" severity="error" message="Method &apos;setBreastLength&apos; is not designed for extension - needs to be abstract, final or empty." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="31" column="5" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+<error line="31" column="46" severity="error" message="&apos;breastLength&apos; hides a field." source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+</file>
+</checkstyle>
